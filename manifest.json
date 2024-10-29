@@ -1,0 +1,34 @@
+{
+  "manifest_version": 3,
+  "name": "CF-Output-Line-Counter",
+  "version": "1.0.0",
+  "description": "Displays line numbers on hover in Codeforces output fields to help with problem-solving.",
+  "permissions": [
+    "activeTab"
+  ],
+  "icons": {
+    "128": "icon.png"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "*://codeforces.com/*"
+      ],
+      "js": [
+        "content.js"
+      ],
+      "css": [
+        "style.css"
+      ]
+    }
+  ],
+  "action": {
+    "default_popup": "onboarding.html",
+    "default_icon": {
+      "128": "icon.png"
+    }
+  },
+  "background": {
+    "service_worker": "background.js"
+  }
+}

@@ -19,7 +19,7 @@
 
 1. **Download or Clone** this repository.
    - To clone, run: `git clone https://github.com/TashinParvez/CF-Output-Line-Counter.git`
-   - [Download](https://github.com/TashinParvez/CF-Output-Line-Counter/releases/download/v1.0.0/CF-Output-Line-Counter.zip)
+   - Click here to [Download](https://github.com/TashinParvez/CF-Output-Line-Counter/releases/download/v1.0.0/CF-Output-Line-Counter.zip).
 
 2. **Open Chrome Extensions**:
    - Visit `chrome://extensions/` in your Chrome browser.

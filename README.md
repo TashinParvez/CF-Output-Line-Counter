@@ -3,6 +3,9 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/TashinParvez/CF-Output-Line-Counter)
 ![GitHub contributors](https://img.shields.io/github/contributors/TashinParvez/CF-Output-Line-Counter)
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/TashinParvez/CF-Output-Line-Counter)
+![Version](https://img.shields.io/github/v/release/TashinParvez/CF-Output-Line-Counter)
+![Edge Support](https://img.shields.io/badge/edge-supported-blue)
+![Chrome Web Store](https://badgen.net/badge/chrome/supported/green?icon=chrome)
 
 | **CF-Output-Line-Counter** is a Chrome extension that helps you see output line numbers when hovering over output fields on Codeforces. This feature makes problem-solving easier by providing a clear view of line positions. | ![Extension Icon](https://github.com/TashinParvez/CF-Output-Line-Counter/blob/main/icon.png) |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------:|
@@ -28,7 +31,12 @@
 - Go to any [Codeforces](https://codeforces.com/) problem page.
 - Hover over the output lines to see line numbers displayed on the left side.
 
-#### Example : [A random CF-Problem](https://codeforces.com/contest/1986/problem/B)
+   #### Try It: [Sample Problem](https://codeforces.com/contest/1986/problem/B)
+
+
+## Changelog
+
+- **v1.0.0** - Initial release of CF-Output-Line-Counter.
 
 
 ## Privacy
@@ -36,3 +44,9 @@
 This extension **does not collect any user data**. It only accesses Codeforces pages to add a simple visual enhancement to the output fields.
 
 ## License
+
+## Contribution Guide
+
+Feel free to open issues, request features, or submit pull requests!
+
+
